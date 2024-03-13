@@ -23,7 +23,7 @@ namespace EmployeeManagement.web.Components.Pages
                 Email="manideep.n15@gmail.com",
                 DateOfBirth=new DateTime(1995,06,06),
                 Gender=Gender.Male,
-                Department=new Department { DepartmentId=1,DepartmentName="IT"},
+                DepartmentId=1,
                 PhotoPath="images/mani.jpg"
                
             };
@@ -35,7 +35,7 @@ namespace EmployeeManagement.web.Components.Pages
                 Email = "manideep@gmail.com",
                 DateOfBirth = new DateTime(1994, 10, 15),
                 Gender = Gender.Male,
-                Department = new Department { DepartmentId = 2, DepartmentName = "Health" },
+                DepartmentId = 2,
                 PhotoPath = "images/Deep.jpg"
 
             };

@@ -25,3 +25,9 @@ while Blazor WebAssembly is suitable for applications that require offline suppo
 even at the cost of longer initial loading times. The choice between the two hosting models depends on the specific 
 requirements and priorities of the application being developed.
 
+Benefits of Repository:
+-----------------------
+-Code is cleaner,easier resuse and maintain
+-Enables to ensure loosely coupled systems
+-it is easy to mock and replace a real repository with a fake implementation 
+  for unit testing
